@@ -1,0 +1,29 @@
+CORS: cross origin resource sharing
+npm i cors 
+
+api-appllication programming interface
+
+http/https/fttp/tcp ip
+  api includes header,body
+header-secret data
+body-normal data
+
+json/xml
+json-http-rest api
+
+rest-representational state transfer
+
+middlewares
+-------------
+
+control the api
+control means api workeyyineyine munne ndhalum posteyyanam
+middlewares are used to control routes in (api requests)in server
+middlewares can control requests , response and the logic after the requests
+it works before working of api request logic
+2 types
+1---application specific middleware--control all requests in server application
+2---router specific middleware---only control specific requests in server application
+
+
+
